@@ -30,6 +30,6 @@ Additionally I've developed Data Visualization dashboards in Looker, Tableau, fo
 ---
 
 ### 📫 Connect with Me
-* **LinkedIn:** [linkedin.com/omkarpatil14](https://linkedin.com/omkarpatil14)
+* **LinkedIn:** [linkedin.com/in/omkarpatil14](https://linkedin.com/in/omkarpatil14)
 * **Portfolio:** [omkarpatil.co.uk](https://omkarpatil.co.uk)
 * **Email:** omkarpatiljobs@gmail.com
